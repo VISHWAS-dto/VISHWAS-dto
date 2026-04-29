@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-kori/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%238B5CF6.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://vishwas-dto.github.io/vishwas_portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%238B5CF6.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://vishwas-dto.github.io/vishwas.portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasshanker8@gmail.com)
 [![Wellfound](https://img.shields.io/badge/Wellfound-%2300B47E.svg?style=for-the-badge&logo=angellist&logoColor=white)](https://wellfound.com/profile/edit)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHWAS-dto)
