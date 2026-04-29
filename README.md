@@ -1,54 +1,219 @@
-# Vishwas Shankar Kori
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vishwas-kori/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=flat&logo=firefox&logoColor=white)](https://vishwas-dto.github.io/vishwas_portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vishwasshanker8@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Vishwas%20Shankar%20Kori&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=🤖%20AI%20%2F%20ML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI%20%7C%20RAG%20Pipelines&descAlignY=62&descSize=17&animation=fadeIn"/>
 
----
+<br/>
 
-AI/ML Engineer specializing in **LLM-powered systems**, **RAG pipelines**, and **agentic AI workflows** built with LangChain and LangGraph. I build scalable, production-grade AI applications that combine structured reasoning, multi-step decision-making, and real-world impact — using Python, PyTorch, NVIDIA NIM, ChromaDB, and Streamlit.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🧠+Building+Intelligent+AI+Systems;🔗+LangGraph+%7C+LangChain+%7C+RAG+Pipelines;🚀+NVIDIA+NIM+%7C+ChromaDB+%7C+Agentic+AI;📊+Machine+Learning+%7C+Deep+Learning+%7C+NLP;💡+Turning+Research+into+Real+Products)](https://git.io/typing-svg)
 
----
+<br/>
 
-### 🔬 Highlight Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-kori/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%238B5CF6.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://vishwas-dto.github.io/vishwas_portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasshanker8@gmail.com)
+[![Wellfound](https://img.shields.io/badge/Wellfound-%2300B47E.svg?style=for-the-badge&logo=angellist&logoColor=white)](https://wellfound.com/profile/edit)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHWAS-dto)
 
-**🔁 [Human-in-the-Loop LLM Chatbot](https://github.com/VISHWAS-dto/Human-in-the-Loop-LLM-Chatbot-with-LangChain)**
-A stateful HITL chatbot built with LangGraph + NVIDIA NIM. Features interrupt-driven human validation checkpoints, persistent memory across sessions, and approval-based response control — enabling safer AI in high-stakes environments.
+<img src="https://komarev.com/ghpvc/?username=VISHWAS-dto&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
 
-**📄 [RAG-Based Knowledge Assistant](https://github.com/VISHWAS-dto/rag-application-nvidia-langchain)**
-End-to-end RAG pipeline supporting PDF & text ingestion with intelligent chunking, semantic retrieval via NVIDIA embeddings + ChromaDB, and LLM inference grounded in retrieved context — significantly reducing hallucinations.
-
-**📝 [GenAI Essay Evaluation Pipeline](https://github.com/VISHWAS-dto/genai-essay-evaluation-system)**
-Agentic LLM pipeline using LangGraph with parallel evaluation nodes that score essays across language, clarity, and reasoning. Pydantic-validated structured outputs ensure consistent, interpretable feedback at scale.
-
-**💾 [Persistence Workflow System](https://github.com/VISHWAS-dto/persistence-workflow)**
-Persistent memory architecture for multi-turn LLM conversations using LangGraph — supporting dynamic context injection, scalable message history, and context compression for improved response accuracy across sessions.
-
-**🐦 [Agentic AI Tweet Generator](https://github.com/VISHWAS-dto/agentic-ai-tweet-generator)**
-Multi-step agentic system using LangGraph orchestration + LLM evaluation loops that autonomously generates, scores, and refines tweets — zero manual intervention required.
-
-**🎬 [Movie Recommender System](https://github.com/VISHWAS-dto/Movie-Recommender-System)**
-Content-based recommendation web app built with Python, Streamlit, and cosine similarity — integrated with the TMDB API to fetch live posters and deliver fast, relevant suggestions.
-
-**📊 [Customer Segmentation & Retention Analysis](https://github.com/VISHWAS-dto/Customer-Segmentation-Retention-Analysis)**
-RFM-based customer segmentation using K-Means clustering and data analytics techniques — identifying high-value behavior patterns to drive actionable retention strategies.
+</div>
 
 ---
 
-### 📌 Key Achievements
+<img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🧠 Mastered the **full agentic AI stack** — from LangChain chains to complex LangGraph stateful workflows with memory, interrupts, and structured outputs.
-- 🔗 Integrated **NVIDIA NIM LLM endpoints** across multiple production-style projects for fast, scalable inference.
-- 🗃️ Built multiple **RAG systems** combining NVIDIA embeddings, ChromaDB vector stores, and semantic chunking to dramatically reduce hallucinations.
-- 📐 Applied **Pydantic structured outputs** across agentic pipelines for consistent, validated LLM responses.
-- 🤖 Built **end-to-end ML projects** — fraud detection, diabetes prediction, customer segmentation — using Scikit-learn, EDA, and rigorous model validation.
-- 🏆 Certified in **Complete Data Science, ML, DL & NLP Bootcamp** and **Generative AI with LangChain & Hugging Face** (Udemy — Krish Naik).
-- 🎓 B.Tech, Electrical Engineering — **IIT Indore** (2026).
+### 👨‍💻 About Me
+
+```python
+class VishwasShankarKori:
+
+    role       = "ML & AI Engineer"
+    education  = "B.Tech EE @ IIT Indore (2026)"
+    location   = "Indore, Madhya Pradesh 🇮🇳"
+
+    focus = [
+        "LLM-Powered Systems",
+        "RAG Pipelines",
+        "Agentic AI Workflows",
+        "Multi-step Reasoning",
+    ]
+
+    stack = {
+        "LLM / GenAI" : ["LangChain", "LangGraph", "NVIDIA NIM"],
+        "ML / DL"     : ["PyTorch", "Scikit-learn", "ANN", "RNN"],
+        "Retrieval"   : ["ChromaDB", "NVIDIA Embeddings", "TF-IDF"],
+        "Apps"        : ["Streamlit", "Flask", "Docker"],
+        "Languages"   : ["Python", "SQL"],
+    }
+
+    currently = "Building production-grade AI pipelines 🚀"
+    open_to   = "AI/ML Engineering Roles & Collaborations"
+```
+
+<br clear="right"/>
 
 ---
 
-### 🤝 Let's Connect
+## 🚀 Featured Projects
 
-I'm actively seeking **AI/ML engineering roles** and open to collaborating on LLM, RAG, agentic AI, or applied ML projects. If you're building something ambitious in the GenAI or data science space — I'd love to connect.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔁 Human-in-the-Loop LLM Chatbot</h3>
+      <a href="https://github.com/VISHWAS-dto/Human-in-the-Loop-LLM-Chatbot-with-LangChain">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=Human-in-the-Loop-LLM-Chatbot-with-LangChain&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      </a>
+      <p>Stateful HITL chatbot with <b>LangGraph + NVIDIA NIM</b> — interrupt-driven human validation, persistent memory & approval-based response control for safer AI interactions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 RAG Knowledge Assistant</h3>
+      <a href="https://github.com/VISHWAS-dto/rag-application-nvidia-langchain">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=rag-application-nvidia-langchain&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      </a>
+      <p>End-to-end RAG pipeline with <b>NVIDIA Embeddings + ChromaDB</b> — intelligent chunking, semantic search, and grounded LLM responses that slash hallucinations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 GenAI Essay Evaluation Pipeline</h3>
+      <a href="https://github.com/VISHWAS-dto/genai-essay-evaluation-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=genai-essay-evaluation-system&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      </a>
+      <p>Agentic LLM pipeline with <b>parallel LangGraph nodes + Pydantic outputs</b> — multi-dimensional essay scoring across clarity, reasoning, and language at scale.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💾 Persistence Workflow System</h3>
+      <a href="https://github.com/VISHWAS-dto/persistence-workflow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=persistence-workflow&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      </a>
+      <p>Persistent memory architecture for <b>multi-turn LLM conversations</b> — stateful LangGraph agent with dynamic context injection and compression strategies.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐦 Agentic AI Tweet Generator</h3>
+      <a href="https://github.com/VISHWAS-dto/agentic-ai-tweet-generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=agentic-ai-tweet-generator&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      </a>
+      <p>Multi-step agentic system using <b>LangGraph + LLM evaluation loops</b> — autonomously generates, scores, and refines tweets. Zero manual effort.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Movie Recommender System</h3>
+      <a href="https://github.com/VISHWAS-dto/Movie-Recommender-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=Movie-Recommender-System&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      </a>
+      <p>Content-based recommender using <b>cosine similarity + TMDB API</b> — fast, accurate suggestions with live movie poster fetching via Streamlit.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Diabetes Prediction Web App</h3>
+      <a href="https://github.com/VISHWAS-dto/Diabetes-Prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=Diabetes-Prediction&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      </a>
+      <p>ML-powered web app built with <b>Scikit-learn + Streamlit</b> — predicts diabetes risk from medical features with robust validation for reliable output.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 Credit Card Fraud Detection</h3>
+      <a href="https://github.com/VISHWAS-dto/credit-card-fraud-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+      </a>
+      <p>ML pipeline using <b>Logistic Regression + Python</b> — detects fraudulent transactions on real-world imbalanced data with full EDA and feature engineering.</p>
+    </td>
+  </tr>
+</table>
 
-> 📍 Indore, India &nbsp;|&nbsp; 📧 vishwasshanker8@gmail.com &nbsp;|&nbsp; 🎓 IIT Indore, B.Tech EE (2026)
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**🤖 GenAI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=buffer&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+**🧠 ML / DL**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**🗃️ Retrieval & Databases**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🧰 Tools & Platforms**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHWAS-dto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAS-dto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHWAS-dto&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHWAS-dto&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=6366F1&point=ffffff&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| 🎓 Certificate | 🏫 Platform | 👨‍🏫 Instructor |
+|---|---|---|
+| Complete Data Science, ML, Deep Learning & NLP Bootcamp | Udemy | Krish Naik |
+| Complete Generative AI with LangChain & Hugging Face | Udemy | Krish Naik |
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm actively looking for **AI/ML Engineering roles** and love collaborating on LLM, RAG, and agentic AI projects.
+If you're building something ambitious in the GenAI space — **let's talk!**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-kori/)
+[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasshanker8@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://vishwas-dto.github.io/vishwas_portfolio/)
+
+<br/>
+
+> *"I don't just use AI — I build the systems that make AI trustworthy, scalable, and useful."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
