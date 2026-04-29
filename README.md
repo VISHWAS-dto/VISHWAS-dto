@@ -163,25 +163,6 @@ class VishwasShankarKori:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHWAS-dto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAS-dto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHWAS-dto&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHWAS-dto&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=6366F1&point=ffffff&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 ## 🏅 Certifications
 
 <div align="center">
