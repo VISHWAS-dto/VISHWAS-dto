@@ -98,27 +98,6 @@ class VishwasShankarKori:
       <p>Multi-step agentic system using <b>LangGraph + LLM evaluation loops</b> — autonomously generates, scores, and refines tweets. Zero manual effort.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 Movie Recommender System</h3>
-      <a href="https://github.com/VISHWAS-dto/Movie-Recommender-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=Movie-Recommender-System&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </a>
-      <p>Content-based recommender using <b>cosine similarity + TMDB API</b> — fast, accurate suggestions with live movie poster fetching via Streamlit.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Diabetes Prediction Web App</h3>
-      <a href="https://github.com/VISHWAS-dto/Diabetes-Prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=Diabetes-Prediction&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </a>
-      <p>ML-powered web app built with <b>Scikit-learn + Streamlit</b> — predicts diabetes risk from medical features with robust validation for reliable output.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Credit Card Fraud Detection</h3>
-      <a href="https://github.com/VISHWAS-dto/credit-card-fraud-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </a>
-      <p>ML pipeline using <b>Logistic Regression + Python</b> — detects fraudulent transactions on real-world imbalanced data with full EDA and feature engineering.</p>
     </td>
   </tr>
 </table>
