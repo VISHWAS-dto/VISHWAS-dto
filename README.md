@@ -60,41 +60,66 @@ class VishwasShankarKori:
   <tr>
     <td width="50%" valign="top">
       <h3>🔁 Human-in-the-Loop LLM Chatbot</h3>
-      <a href="https://github.com/VISHWAS-dto/Human-in-the-Loop-LLM-Chatbot-with-LangChain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=Human-in-the-Loop-LLM-Chatbot-with-LangChain&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </a>
+      <p>
+        <a href="https://github.com/VISHWAS-dto/Human-in-the-Loop-LLM-Chatbot-with-LangChain">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logo=buffer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
       <p>Stateful HITL chatbot with <b>LangGraph + NVIDIA NIM</b> — interrupt-driven human validation, persistent memory & approval-based response control for safer AI interactions.</p>
     </td>
     <td width="50%" valign="top">
       <h3>📄 RAG Knowledge Assistant</h3>
-      <a href="https://github.com/VISHWAS-dto/rag-application-nvidia-langchain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=rag-application-nvidia-langchain&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </a>
+      <p>
+        <a href="https://github.com/VISHWAS-dto/rag-application-nvidia-langchain">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      </p>
       <p>End-to-end RAG pipeline with <b>NVIDIA Embeddings + ChromaDB</b> — intelligent chunking, semantic search, and grounded LLM responses that slash hallucinations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📝 GenAI Essay Evaluation Pipeline</h3>
-      <a href="https://github.com/VISHWAS-dto/genai-essay-evaluation-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=genai-essay-evaluation-system&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </a>
+      <p>
+        <a href="https://github.com/VISHWAS-dto/genai-essay-evaluation-system">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logo=buffer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
       <p>Agentic LLM pipeline with <b>parallel LangGraph nodes + Pydantic outputs</b> — multi-dimensional essay scoring across clarity, reasoning, and language at scale.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💾 Persistence Workflow System</h3>
-      <a href="https://github.com/VISHWAS-dto/persistence-workflow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=persistence-workflow&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </a>
+      <p>
+        <a href="https://github.com/VISHWAS-dto/persistence-workflow">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logo=buffer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
       <p>Persistent memory architecture for <b>multi-turn LLM conversations</b> — stateful LangGraph agent with dynamic context injection and compression strategies.</p>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top" colspan="2">
       <h3>🐦 Agentic AI Tweet Generator</h3>
-      <a href="https://github.com/VISHWAS-dto/agentic-ai-tweet-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=agentic-ai-tweet-generator&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </a>
+      <p>
+        <a href="https://github.com/VISHWAS-dto/agentic-ai-tweet-generator">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logo=buffer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Agentic%20AI-A78BFA?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
       <p>Multi-step agentic system using <b>LangGraph + LLM evaluation loops</b> — autonomously generates, scores, and refines tweets. Zero manual effort.</p>
     </td>
   </tr>
@@ -173,12 +198,12 @@ class VishwasShankarKori:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VISHWAS-dto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHWAS-dto&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHWAS-dto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=VISHWAS-dto&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAS-dto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" width="40%" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAS-dto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&langs_count=8" />
 
 </div>
 
