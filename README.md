@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-kori/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%238B5CF6.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://vishwas-dto.github.io/vishwas.portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasshanker8@gmail.com)
-[![Wellfound](https://img.shields.io/badge/Wellfound-%2300B47E.svg?style=for-the-badge&logo=angellist&logoColor=white)](https://wellfound.com/profile/edit)
+[![Wellfound](https://img.shields.io/badge/Wellfound-%2300B47E.svg?style=for-the-badge&logo=angellist&logoColor=white)](https://wellfound.com/u/vishwas-kori)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHWAS-dto)
 
 <img src="https://komarev.com/ghpvc/?username=VISHWAS-dto&label=Profile+Views&color=8B5CF6&style=for-the-badge" />
@@ -47,7 +47,7 @@ class VishwasShankarKori:
     }
 
     currently = "Building production-grade AI pipelines 🚀"
-    open_to   = "AI/ML Engineering Roles & Collaborations"
+    open_to   = "AI/ML Engineering Roles and Collaborations"
 ```
 
 <br clear="right"/>
@@ -90,14 +90,12 @@ class VishwasShankarKori:
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top" colspan="2">
       <h3>🐦 Agentic AI Tweet Generator</h3>
       <a href="https://github.com/VISHWAS-dto/agentic-ai-tweet-generator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=agentic-ai-tweet-generator&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
       <p>Multi-step agentic system using <b>LangGraph + LLM evaluation loops</b> — autonomously generates, scores, and refines tweets. Zero manual effort.</p>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
@@ -171,6 +169,21 @@ class VishwasShankarKori:
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VISHWAS-dto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHWAS-dto&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAS-dto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" width="40%" />
+
+</div>
+
+---
+
 ## 🏅 Certifications
 
 <div align="center">
@@ -195,7 +208,7 @@ If you're building something ambitious in the GenAI space — **let's talk!**
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-kori/)
 [![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasshanker8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://vishwas-dto.github.io/vishwas_portfolio/)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://vishwas-dto.github.io/vishwas.portfolio/)
 
 <br/>
 
