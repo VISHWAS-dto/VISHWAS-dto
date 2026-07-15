@@ -27,7 +27,7 @@
 ```python
 class VishwasShankarKori:
 
-    role       = "ML & AI Engineer"
+    role       = "Software Engineer at Lacto"
     education  = "B.Tech EE @ IIT Indore (2026)"
     location   = "Indore, Madhya Pradesh 🇮🇳"
 
