@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 
 ```python
-class VishwasShankarKori:
+class Vishwas:
 
     role       = "Software Engineer @ Lacto | Founder @ Protino"
     education  = "B.Tech, Electrical Engineering @ IIT Indore(Graduate)"
