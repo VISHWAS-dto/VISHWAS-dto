@@ -28,7 +28,7 @@
 class VishwasShankarKori:
 
     role       = "Software Engineer @ Lacto | Founder @ Protino"
-    education  = "B.Tech, Electrical Engineering @ IIT Indore (2026)"
+    education  = "B.Tech, Electrical Engineering @ IIT Indore(Graduate)"
     location   = "Bengaluru, Karnataka, India 🇮🇳"
 
     focus = [
