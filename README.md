@@ -27,27 +27,36 @@
 ```python
 class VishwasShankarKori:
 
-    role       = "Software Engineer at Lacto"
-    education  = "B.Tech EE @ IIT Indore (2026)"
-    location   = "Indore, Madhya Pradesh 🇮🇳"
+    role       = "Software Engineer @ Lacto | Founder @ Protino"
+    education  = "B.Tech, Electrical Engineering @ IIT Indore (2026)"
+    location   = "Bengaluru, Karnataka, India 🇮🇳"
 
     focus = [
-        "LLM-Powered Systems",
+        "Generative AI",
+        "LLM-Powered Applications",
         "RAG Pipelines",
-        "Agentic AI Workflows",
-        "Multi-step Reasoning",
+        "Agentic AI Systems",
+        "AI Automation",
     ]
 
     stack = {
-        "LLM / GenAI" : ["LangChain", "LangGraph", "NVIDIA NIM"],
-        "ML / DL"     : ["PyTorch", "Scikit-learn", "ANN", "RNN"],
-        "Retrieval"   : ["ChromaDB", "NVIDIA Embeddings", "TF-IDF"],
-        "Apps"        : ["Streamlit", "Flask", "Docker"],
-        "Languages"   : ["Python", "SQL"],
+        "AI / GenAI"   : ["LLMs", "LangChain", "LangGraph", "NVIDIA NIM"],
+        "ML / DL"      : ["PyTorch", "Scikit-learn", "ANN", "RNN"],
+        "Retrieval"    : ["ChromaDB", "Vector Search", "NVIDIA Embeddings"],
+        "Backend"      : ["Python", "FastAPI", "Flask", "REST APIs"],
+        "Deployment"   : ["Docker", "Git", "Linux"],
+        "Database"     : ["SQL", "ChromaDB"],
     }
 
-    currently = "Building production-grade AI pipelines 🚀"
-    open_to   = "AI/ML Engineering Roles and Collaborations"
+    building = [
+        "Production-ready AI Applications",
+        "Intelligent AI Agents",
+        "Scalable Automation Systems",
+        "Protino 🚀",
+    ]
+
+    currently = "Building AI products that solve real-world problems."
+    open_to   = "AI Engineer • Applied AI • Machine Learning Engineer • Founding Engineer Roles"
 ```
 
 <br clear="right"/>
