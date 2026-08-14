@@ -33,6 +33,17 @@
 </a>
 </p>
 
+### Skills
+
+| Category | Skills |
+|---|---|
+| **Programming** | Python, SQL, Pandas, NumPy, React, C++ |
+| **ML/DL** | PyTorch, Regression, Random Forest, SVM, Boosting, K-Means, PCA, ANN, RNN |
+| **GenAI** | Hugging Face, LangChain/LangGraph, RAG, Agentic AI, Vector Embeddings, ChromaDB |
+| **System Design** | API Design, Microservices, Scalable Architectures, Data Modeling, Caching, Load Balancing |
+| **Data Visualization** | Algorithms, Matplotlib, Seaborn, Statistical Analysis, Data Modeling, Statistics, EDA |
+| **Frameworks & Tools** | FastAPI, Django, Flask, Docker, Git, GitHub, n8n, REST APIs, PyCharm, AWS, Claude Code |
+
 ### Languages and Tools:
 
 <p>
