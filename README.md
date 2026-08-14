@@ -9,11 +9,9 @@
 </div>
 
 - 🌱 I am proficient in **Generative AI, RAG Pipelines, and Agentic AI Systems**
-
 - 👨‍💻 All of my projects are available at [https://github.com/VISHWAS-dto](https://github.com/VISHWAS-dto)
-
-- 💼 I currently work as a Software Engineer @ **Lacto** and founded **Protino**
-
+- 💼 Software Engineer @ Lacto
+- 🚀 Founder of Protino
 - 📫 How to reach me **vishwasshanker8@gmail.com**
 
 ### Connect with me:
