@@ -1,145 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6E44FF&height=170&section=header&text=Vishwas%20Shankar%20Kori&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%26%20Agentic%20Systems%20%C2%B7%20India&descAlignY=52&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B10,100:00FF41&height=200&section=header&text=VISHWAS%20SHANKAR%20KORI&fontSize=38&fontColor=00FF41&fontAlignY=34&desc=%3E%20AI%2FML%20Engineer%20%7C%20LLM%20%26%20Agentic%20Systems&descAlignY=54&descSize=17&animation=twinkling" width="100%" />
 
-<a href="https://vishwas-dto.github.io/vishwas.portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Building+LLM+%26+Agentic+AI+Systems;RAG+Pipelines+%7C+Vector+Search+%7C+Evals;Software+Engineer+%40+Lacto;Founder+%40+Protino" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00FF41&center=true&vCenter=true&width=750&height=50&lines=%3E+initializing+agent+runtime...;%3E+Building+LLM+%26+Agentic+AI+Systems;%3E+RAG+%7C+Vector+Search+%7C+Evals+%7C+Orchestration;%3E+Software+Engineer+%40+Lacto;%3E+Founder+%40+Protino;%3E+status%3A+shipping_" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vishwas-kori/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://vishwas-dto.github.io/vishwas.portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:vishwasshanker8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wellfound.com/u/vishwas-kori"><img src="https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=angellist&logoColor=white" alt="Wellfound" /></a>
-<img src="https://komarev.com/ghpvc/?username=VISHWAS-dto&label=Profile+views&color=0E75B6&style=for-the-badge" alt="Profile views" />
+<a href="https://www.linkedin.com/in/vishwas-kori/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117" /></a>&nbsp;
+<a href="https://vishwas-dto.github.io/vishwas.portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=0D1117" /></a>&nbsp;
+<a href="mailto:vishwasshanker8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117" /></a>&nbsp;
+<a href="https://wellfound.com/u/vishwas-kori"><img src="https://img.shields.io/badge/WELLFOUND-0D1117?style=for-the-badge&logo=angellist&logoColor=00FF41&labelColor=0D1117" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=VISHWAS-dto&label=VISITORS&color=00FF41&style=for-the-badge" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=3&section=header" width="100%" />
 
 </div>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=VISHWAS-dto&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00FF41&icon_color=00FF41&text_color=39FF14&ring_color=00FF41" align="right" height="170" />
 
-## 👨‍💻 About Me
+## ```> whoami```
 
-```python
-class Vishwas:
-    role        = "AI/ML Engineer"
-    company     = "Lacto"
-    founder_of  = "Protino"
-    focus       = ["Generative AI", "RAG Pipelines", "Agentic AI Systems"]
-    stack       = ["Python", "PyTorch", "LangGraph", "FastAPI", "Docker", "AWS"]
-    currently   = "Shipping production-grade LLM applications"
-    reach_me_at = "vishwasshanker8@gmail.com"
+**AI/ML Engineer** shipping production LLM systems — retrieval pipelines, multi-agent workflows, and the infra that holds them together.
+
+```yaml
+role:     AI/ML Engineer @ Lacto
+founder:  Protino
+focus:    [GenAI, RAG, Agentic AI]
+open_to:  collaboration on agents & applied ML
+contact:  vishwasshanker8@gmail.com
 ```
 
-- 🧠 I build **LLM-powered systems** — retrieval pipelines, multi-agent workflows, and the infra around them
-- 🚀 Founder of **Protino**, working on making fresh, healthy food accessible at scale
-- 💼 Software Engineer **@ Lacto**
-- 🛠️ Open to collaborating on **GenAI, agents, and applied ML** projects
-- 📫 Reach me at **vishwasshanker8@gmail.com**
-
----
-
-## 🧰 Tech Stack
+<br clear="right"/>
 
 <div align="center">
 
-**Languages & Core**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=3&section=header" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,mysql,postgres&theme=dark" />
+## ```> cat tech_stack.json```
 
-**AI / ML / Data**
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain%20%7C%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic%20AI-FF1493?style=flat-square" />
-<img src="https://img.shields.io/badge/Vector%20Embeddings-008B8B?style=flat-square" />
-<img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib%20%7C%20Seaborn-11557C?style=flat-square" />
+**` AI / ML `**
 
-**Backend, Infra & Tools**
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,python&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,docker,aws,git,github,linux&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Caching-B22222?style=flat-square" />
-<img src="https://img.shields.io/badge/Load%20Balancing-4682B4?style=flat-square" />
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-00FF41?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/HuggingFace-00FF41?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/RAG-00FF41?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_AI-00FF41?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-00FF41?style=flat-square" />
+<img src="https://img.shields.io/badge/Embeddings-00FF41?style=flat-square" />
 
-</div>
+</td>
+<td align="center" width="50%">
+
+**` BACKEND / INFRA `**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,docker,aws,linux&theme=dark" />
+
+<img src="https://img.shields.io/badge/REST_APIs-00FF41?style=flat-square" />
+<img src="https://img.shields.io/badge/Microservices-00FF41?style=flat-square" />
+<img src="https://img.shields.io/badge/Caching-00FF41?style=flat-square" />
+<img src="https://img.shields.io/badge/Load_Balancing-00FF41?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-00FF41?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**` LANGUAGES `**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react&theme=dark" />
+
+</td>
+<td align="center">
+
+**` DATA / TOOLS `**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>📚 Deeper ML / Systems toolkit</b> (click to expand)</summary>
+<summary><b>▸ ./expand full_toolkit.sh</b></summary>
 
 <br/>
 
-| Area | What I work with |
-|---|---|
-| **Classical ML** | Regression, Random Forest, SVM, Boosting, K-Means, PCA |
-| **Deep Learning** | ANN, RNN, transfer learning, fine-tuning |
-| **GenAI** | RAG, hybrid search, re-ranking, agent orchestration, evals |
-| **System Design** | API design, microservices, data modeling, caching, load balancing |
-| **Analytics** | EDA, statistical analysis, hypothesis testing, visualization |
+| Area | Detail |
+|:---|:---|
+| **Classical ML** | Regression · Random Forest · SVM · Boosting · K-Means · PCA |
+| **Deep Learning** | ANN · RNN · Transfer learning · Fine-tuning |
+| **GenAI** | RAG · Hybrid search · Re-ranking · Agent orchestration · Evals |
+| **System Design** | API design · Microservices · Data modeling · Caching · Load balancing |
+| **Analytics** | EDA · Statistical analysis · Matplotlib · Seaborn · Pandas · NumPy |
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=3&section=header" width="100%" />
 
-## 🚀 Featured Projects
-
-<!-- Swap the repo names below for your actual repos — these cards auto-update. -->
-<div align="center">
-
-<a href="https://github.com/VISHWAS-dto/REPO-ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=REPO-ONE&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/VISHWAS-dto/REPO-TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=REPO-TWO&theme=tokyonight&hide_border=true" />
-</a>
+## ```> ls -la ./projects```
 
 </div>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project One](https://github.com/VISHWAS-dto/REPO-ONE)** | One line on the problem it solves and the result | LangGraph · FastAPI · ChromaDB |
-| **[Project Two](https://github.com/VISHWAS-dto/REPO-TWO)** | One line on the problem it solves and the result | PyTorch · Docker · AWS |
-| **[Project Three](https://github.com/VISHWAS-dto/REPO-THREE)** | One line on the problem it solves and the result | Python · RAG · Streamlit |
+| | Project | Stack |
+|:---:|:---|:---|
+| 🤖 | **[Project One](https://github.com/VISHWAS-dto)** — one line on the problem and the outcome | `LangGraph` `FastAPI` `ChromaDB` |
+| 🔎 | **[Project Two](https://github.com/VISHWAS-dto)** — one line on the problem and the outcome | `PyTorch` `Docker` `AWS` |
+| 🍱 | **[Protino](https://github.com/VISHWAS-dto)** — fresh, healthy meals at scale | `Python` `React` `Postgres` |
 
----
-
-## 📊 GitHub Stats
+<!--
+  Optional auto-updating repo card — swap REPO-NAME for a real repo:
+  <a href="https://github.com/VISHWAS-dto/REPO-NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=REPO-NAME&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=39FF14&icon_color=00FF41" /></a>
+-->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VISHWAS-dto&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAS-dto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=3&section=header" width="100%" />
+
+## ```> ./run_stats --live```
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAS-dto&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=39FF14" height="150" />
+<img src="https://streak-stats.demolab.com?user=VISHWAS-dto&hide_border=true&background=00000000&stroke=00FF41&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=39FF14&sideNums=39FF14&dates=39FF14" height="150" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHWAS-dto&bg_color=00000000&color=00FF41&line=00FF41&point=39FF14&area=true&hide_border=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=VISHWAS-dto&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/VISHWAS-dto/VISHWAS-dto/output/github-snake-dark.svg" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=3&section=header" width="100%" />
+
+## ```> echo "let's build something"```
+
+<i>Always up for a conversation about agents, retrieval, or early-stage products.</i>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=VISHWAS-dto&theme=tokyonight&hide_border=true" />
+<a href="mailto:vishwasshanker8@gmail.com"><img src="https://img.shields.io/badge/%3E_SAY_HELLO-0D1117?style=for-the-badge&logo=minutemailer&logoColor=00FF41&labelColor=0D1117" /></a>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=VISHWAS-dto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B10,100:000000&height=140&section=footer&animation=twinkling" width="100%" />
 
 </div>
 
----
-
-<div align="center">
-
-### 💬 Let's build something
-
-Always up for a conversation about agents, retrieval, or early-stage products.
-
-<a href="mailto:vishwasshanker8@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,100:0E75B6&height=100&section=footer" width="100%" />
-
-</div>
