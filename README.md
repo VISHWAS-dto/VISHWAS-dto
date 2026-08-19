@@ -1,145 +1,91 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6E44FF&height=170&section=header&text=Vishwas%20Shankar%20Kori&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%26%20Agentic%20Systems%20%C2%B7%20India&descAlignY=52&descSize=16&animation=fadeIn" width="100%" />
-
-<a href="https://vishwas-dto.github.io/vishwas.portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Building+LLM+%26+Agentic+AI+Systems;RAG+Pipelines+%7C+Vector+Search+%7C+Evals;Software+Engineer+%40+Lacto;Founder+%40+Protino" alt="Typing SVG" />
+# Hi 👋, I'm Vishwas Shankar Kori
+### A passionate AI/ML Engineer building LLM & Agentic AI systems from India
+<img src="https://komarev.com/ghpvc/?username=VISHWAS-dto&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+- 🌱 I am proficient in **Generative AI, RAG Pipelines, and Agentic AI Systems**
+- 👨‍💻 All of my projects are available at [https://github.com/VISHWAS-dto](https://github.com/VISHWAS-dto)
+- 💼 Software Engineer @ Lacto
+- 🚀 Founder of Protino
+- 📫 How to reach me **vishwasshanker8@gmail.com**
+### Connect with me:
+<p>
+<a href="https://www.linkedin.com/in/vishwas-kori/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vishwas-kori/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://vishwas-dto.github.io/vishwas.portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:vishwasshanker8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wellfound.com/u/vishwas-kori"><img src="https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=angellist&logoColor=white" alt="Wellfound" /></a>
-<img src="https://komarev.com/ghpvc/?username=VISHWAS-dto&label=Profile+views&color=0E75B6&style=for-the-badge" alt="Profile views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class Vishwas:
-    role        = "AI/ML Engineer"
-    company     = "Lacto"
-    founder_of  = "Protino"
-    focus       = ["Generative AI", "RAG Pipelines", "Agentic AI Systems"]
-    stack       = ["Python", "PyTorch", "LangGraph", "FastAPI", "Docker", "AWS"]
-    currently   = "Shipping production-grade LLM applications"
-    reach_me_at = "vishwasshanker8@gmail.com"
-```
-
-- 🧠 I build **LLM-powered systems** — retrieval pipelines, multi-agent workflows, and the infra around them
-- 🚀 Founder of **Protino**, working on making fresh, healthy food accessible at scale
-- 💼 Software Engineer **@ Lacto**
-- 🛠️ Open to collaborating on **GenAI, agents, and applied ML** projects
-- 📫 Reach me at **vishwasshanker8@gmail.com**
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,mysql,postgres&theme=dark" />
-
-**AI / ML / Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain%20%7C%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-4B0082?style=flat-square" />
-<img src="https://img.shields.io/badge/Agentic%20AI-FF1493?style=flat-square" />
-<img src="https://img.shields.io/badge/Vector%20Embeddings-008B8B?style=flat-square" />
-<img src="https://img.shields.io/badge/ChromaDB-6E44FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib%20%7C%20Seaborn-11557C?style=flat-square" />
-
-**Backend, Infra & Tools**
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,docker,aws,git,github,linux&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Caching-B22222?style=flat-square" />
-<img src="https://img.shields.io/badge/Load%20Balancing-4682B4?style=flat-square" />
-<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" />
-
-</div>
-
-<details>
-<summary><b>📚 Deeper ML / Systems toolkit</b> (click to expand)</summary>
-
-<br/>
-
-| Area | What I work with |
-|---|---|
-| **Classical ML** | Regression, Random Forest, SVM, Boosting, K-Means, PCA |
-| **Deep Learning** | ANN, RNN, transfer learning, fine-tuning |
-| **GenAI** | RAG, hybrid search, re-ranking, agent orchestration, evals |
-| **System Design** | API design, microservices, data modeling, caching, load balancing |
-| **Analytics** | EDA, statistical analysis, hypothesis testing, visualization |
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<!-- Swap the repo names below for your actual repos — these cards auto-update. -->
-<div align="center">
-
-<a href="https://github.com/VISHWAS-dto/REPO-ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=REPO-ONE&theme=tokyonight&hide_border=true" />
+<a href="https://vishwas-dto.github.io/vishwas.portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/firefox.svg" alt="portfolio" height="30" width="40" />
 </a>
-<a href="https://github.com/VISHWAS-dto/REPO-TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHWAS-dto&repo=REPO-TWO&theme=tokyonight&hide_border=true" />
+<a href="mailto:vishwasshanker8@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" height="30" width="40" />
 </a>
+<a href="https://wellfound.com/u/vishwas-kori" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angellist.svg" alt="wellfound" height="30" width="40" />
+</a>
+</p>
+### Skills
+## 🚀 Skills
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🤖 ML / DL
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-4B8BBE?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-2E8B57?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-8A2BE2?style=for-the-badge)
+![Boosting](https://img.shields.io/badge/Boosting-FF8C00?style=for-the-badge)
+![K--Means](https://img.shields.io/badge/K--Means-20B2AA?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-DC143C?style=for-the-badge)
+![ANN](https://img.shields.io/badge/ANN-1E90FF?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-6A5ACD?style=for-the-badge)
+### 🧠 GenAI
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain%2FLangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF1493?style=for-the-badge)
+![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-008B8B?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
+### 🏗️ System Design
+![API Design](https://img.shields.io/badge/API%20Design-009688?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![Scalable Architectures](https://img.shields.io/badge/Scalable%20Architectures-2F4F4F?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-556B2F?style=for-the-badge)
+![Caching](https://img.shields.io/badge/Caching-B22222?style=for-the-badge)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-4682B4?style=for-the-badge)
+### 📊 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8B0000?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-6B8E23?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-DAA520?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-483D8B?style=for-the-badge)
+### 🛠️ Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+### Languages and Tools:
+<p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
+</p>
 
-</div>
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project One](https://github.com/VISHWAS-dto/REPO-ONE)** | One line on the problem it solves and the result | LangGraph · FastAPI · ChromaDB |
-| **[Project Two](https://github.com/VISHWAS-dto/REPO-TWO)** | One line on the problem it solves and the result | PyTorch · Docker · AWS |
-| **[Project Three](https://github.com/VISHWAS-dto/REPO-THREE)** | One line on the problem it solves and the result | Python · RAG · Streamlit |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VISHWAS-dto&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHWAS-dto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=VISHWAS-dto&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=VISHWAS-dto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's build something
-
-Always up for a conversation about agents, retrieval, or early-stage products.
-
-<a href="mailto:vishwasshanker8@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E44FF,100:0E75B6&height=100&section=footer" width="100%" />
-
-</div>
