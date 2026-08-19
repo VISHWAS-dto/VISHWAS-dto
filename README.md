@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/vishwas-kori/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://vishwas-dto.github.io/vishwas.portfolio/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" /></a>
 <a href="mailto:vishwasshanker8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://wellfound.com/u/vishwas-kori" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=angellist&logoColor=white" alt="wellfound" /></a>
+<a href="https://wellfound.com/profile/edit/overview" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=angellist&logoColor=white" alt="wellfound" /></a>
 </p>
 
 ## 🚀 Skills
