@@ -11,7 +11,7 @@
 - 🌱 I am proficient in **Generative AI, RAG Pipelines, and Agentic AI Systems**
 - 👨‍💻 All of my projects are available at [github.com/VISHWAS-dto](https://github.com/VISHWAS-dto?tab=repositories)
 - 💼 Software Engineer @ **Lacto**
-- 🚀 Founder of **Protino**
+- 🚀 Building **Protino**
 - 📫 How to reach me: **vishwasshanker8@gmail.com**
 
 ## 🤝 Connect with me
