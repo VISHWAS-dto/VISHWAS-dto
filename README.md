@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Vishwas Shankar Kori
+# Hi 👋, Vishwas Shankar Kori
 
 ### A passionate AI/ML Engineer building LLM & Agentic AI systems from India
 
