@@ -2,7 +2,7 @@
 
 # Hi 👋, Vishwas Shankar Kori
 
-### A passionate AI/ML Engineer building LLM & Agentic AI systems from India
+### A passionate AI/ML Engineer building LLM & Agentic AI systems
 
 <img src="https://komarev.com/ghpvc/?username=VISHWAS-dto&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
