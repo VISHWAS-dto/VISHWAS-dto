@@ -1,45 +1,28 @@
 <div align="center">
 
-# vishwas@github ~ %
+# Hi 👋, Vishwas Shankar
+
+### A passionate AI/ML Engineer building LLM & Agentic AI systems
+
+<img src="https://komarev.com/ghpvc/?username=VISHWAS-dto&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
 
-```
-                                                    vishwas@github
-                                                    -----------------
-        ┌─────────────────────────┐               OS: Bengaluru, India 🇮🇳
-        │  ┌───┐   ┌───┐   ┌───┐  │               Host: Lacto Software Engineer
-   ═════╡  │ 0 │   │ 1 │   │ 0 │  ╞═════           Founder: Protino
-   ═════╡  └───┘   └───┘   └───┘  ╞═════           Kernel: RAG + Agentic-AI 6.9
-        │                         │               IDE: PyCharm / VS Code
-        │      A G E N T • A I    │               Uptime: building AI systems daily
-        │                         │
-   ═════╡  ┌───┐   ┌───┐   ┌───┐  ╞═════           Languages.Programming: Python,
-   ═════╡  │ 1 │   │ 0 │   │ 1 │  ╞═════             Java, C++, JavaScript, SQL
-        │  └───┘   └───┘   └───┘  │               Languages.Real: English
-        └─────────────────────────┘
-              │   │   │   │   │                    Focus: LLMs, RAG Pipelines,
-              │   │   │   │   │                      Agentic AI Systems
+- 🌱 I am proficient in **Generative AI, RAG Pipelines, and Agentic AI Systems**
+- 👨‍💻 All of my projects are available at [github.com/VISHWAS-dto](https://github.com/VISHWAS-dto?tab=repositories)
+- 💼 Software Engineer @ **Lacto**
+- 📫 How to reach me: **vishwasshanker8@gmail.com**
 
-                                                    ---------------------------
-                                                    Contact
-                                                    Email ......... vishwasshanker8@gmail.com
-                                                    LinkedIn ...... vishwas-kori
-                                                    Portfolio ..... vishwas-dto.github.io/vishwas.portfolio
-                                                    GitHub ........ github.com/VISHWAS-dto
+## 🤝 Connect with me
 
-                                                    ---------------------------
-                                                    GitHub Stats
-                                                    Repos: .......... 42
-                                                    Followers: ...... 2
-                                                    Following: ...... 0
-```
+<p align="left">
+<a href="https://www.linkedin.com/in/vishwas-kori/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://vishwas-dto.github.io/vishwas.portfolio/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" /></a>
+<a href="mailto:vishwasshanker8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://wellfound.com/profile/edit/overview" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=angellist&logoColor=white" alt="wellfound" /></a>
+</p>
 
-<div align="center">
-
-### 🚀 Skills
-
-</div>
+## 🚀 Skills
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
