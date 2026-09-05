@@ -5,28 +5,28 @@
 </div>
 
 ```
-                    -/+++++++++++/-`               vishwas@github
-                 `/+++++++++++++++++/`             -----------------
-               .++++++++++++++++++++++.            OS: Bengaluru, India 🇮🇳
-             `+++++++/-.........-/+++++++`         Host: Lacto Software Engineer
-            /+++++/`               `/+++++/        Founder: Protino
-           +++++/       .-::::-.      /+++++       Kernel: RAG + Agentic-AI 6.9
-          /++++.      `:+++++++++:`     .++++/     IDE: PyCharm / VS Code
-          ++++/      `+++++++++++++`     /++++     Uptime: building AI systems daily
-         .++++`     `+++++/```/+++++`    `++++.
-         .++++`     +++++`     `+++++     ++++.    Languages.Programming: Python,
-         `++++`    -++++`       `++++-    ++++`      Java, C++, JavaScript, SQL
-          ++++/    ++++`         `++++    /++++    Languages.Real: English
-          .++++.  -++++           ++++-  .++++.
-           /++++/ `++++.         .++++` /++++/     Focus: LLMs, RAG Pipelines,
-            /+++++/`++++.       .++++`/+++++/        Agentic AI Systems
-             `+++++++++++.     .+++++++++++`
-              `.+++++++++++.  .+++++++++++.`       ---------------------------
-                 `-/+++++++++++++++/-`             Contact
-                    `.-/+++++++/-.`                Email ......... vishwasshanker8@gmail.com
-                                                     LinkedIn ...... vishwas-kori
-                                                     Portfolio ..... vishwas-dto.github.io/vishwas.portfolio
-                                                     GitHub ........ github.com/VISHWAS-dto
+                                                    vishwas@github
+                                                    -----------------
+        ┌─────────────────────────┐               OS: Bengaluru, India 🇮🇳
+        │  ┌───┐   ┌───┐   ┌───┐  │               Host: Lacto Software Engineer
+   ═════╡  │ 0 │   │ 1 │   │ 0 │  ╞═════           Founder: Protino
+   ═════╡  └───┘   └───┘   └───┘  ╞═════           Kernel: RAG + Agentic-AI 6.9
+        │                         │               IDE: PyCharm / VS Code
+        │      A G E N T • A I    │               Uptime: building AI systems daily
+        │                         │
+   ═════╡  ┌───┐   ┌───┐   ┌───┐  ╞═════           Languages.Programming: Python,
+   ═════╡  │ 1 │   │ 0 │   │ 1 │  ╞═════             Java, C++, JavaScript, SQL
+        │  └───┘   └───┘   └───┘  │               Languages.Real: English
+        └─────────────────────────┘
+              │   │   │   │   │                    Focus: LLMs, RAG Pipelines,
+              │   │   │   │   │                      Agentic AI Systems
+
+                                                    ---------------------------
+                                                    Contact
+                                                    Email ......... vishwasshanker8@gmail.com
+                                                    LinkedIn ...... vishwas-kori
+                                                    Portfolio ..... vishwas-dto.github.io/vishwas.portfolio
+                                                    GitHub ........ github.com/VISHWAS-dto
 
                                                     ---------------------------
                                                     GitHub Stats
