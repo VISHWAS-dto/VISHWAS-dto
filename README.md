@@ -37,6 +37,8 @@
 ### 🏗️ System Design
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 ![Scalable Architectures](https://img.shields.io/badge/Scalable%20Architectures-2F4F4F?style=for-the-badge)
+![HLD](https://img.shields.io/badge/HLD-4B0082?style=for-the-badge)
+![LLD](https://img.shields.io/badge/LLD-8A2BE2?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-556B2F?style=for-the-badge)
 ![Caching](https://img.shields.io/badge/Caching-B22222?style=for-the-badge)
 ![Load Balancing](https://img.shields.io/badge/Load%20Balancing-4682B4?style=for-the-badge)
